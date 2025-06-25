@@ -23,3 +23,12 @@ I planned to retake the CCNA, but life had other plans. I had to pause everythin
 
 I decided to revisit the Network+ certification. I bought the updated book, reviewed everything over two months, took practice exams, and this time I passed! It felt incredibly rewarding to finally achieve a goal I had set years earlier. Just a few weeks later, I landed my first job in cybersecurity and passed the Security+ exam within a month. I never went back to finish the CCNA, as my focus shifted to security, but networking remains my favorite topic in IT.  CCNA again? I don't know, maybe one day?
 
+Some YouTube channels I used to complement my studies:
+
+- Professor Messer: https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8
+- NetworkChuck: https://www.youtube.com/@NetworkChuck
+- David Bombal: https://www.youtube.com/@davidbombal
+- Keith Barker: https://www.youtube.com/@KeithBarker
+- Practical Networking (Subnetting Playlist): https://www.youtube.com/watch?v=BWZ-MHIhqjM
+- PowerCert Animated Videos: https://www.youtube.com/watch?v=Mad4kQ5835Y&list=PL7zRJGi6nMRzg0LdsR7F3olyLGoBcIvvg
+- Sunny Classroom: https://www.youtube.com/@sunnyclassroom24/videos
